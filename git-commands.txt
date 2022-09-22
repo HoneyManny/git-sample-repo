@@ -1,5 +1,5 @@
-git status
-git init
+git status--> prints the status of git repository
+git init--> initialize the git repository
 git config
 git config
 git add
